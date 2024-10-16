@@ -94,3 +94,4 @@ Dalam contoh ini, atribut seperti `Nama`, `JenisKelamin`, dan `Umur` bisa dibuat
     - Getter adalah metode yang digunakan untuk mendapatkan nilai dari atribut tersebut.
 
 #### Tampilan Output
+![1](ss/1.png)
